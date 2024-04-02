@@ -1,0 +1,11 @@
+name: Warp
+author: MINSEO
+api: 5.0.0
+version: 1.0.0
+main: MINSEO\ServerWarp\ServerWarp
+
+permissions:
+  warp.op:
+    default: op
+  warp.user:
+    default: true
