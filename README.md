@@ -1,5 +1,5 @@
 # ServerWarp
-서버에 워프 기능 추가합니다.
+서버에 워프 기능을 추가합니다.
 
 # Command
 1. /워프 [User Command]
